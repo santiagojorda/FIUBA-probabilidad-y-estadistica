@@ -6,3 +6,5 @@
 - 📺 [Videos probabilidad](https://youtube.com/playlist?list=PLxk2dEOPjuEZ-AWuBFqEfsCgv8ZF-ESGD&si=c_iixNJPsXMlOs06)
 - 📺 [Videos estadistica](https://youtube.com/playlist?list=PLccspIL94Ga-afSUOcH69Oti2J-RSzdHW&si=nz-EO7BgRJb8npLr)
 - ⌨️ [Colab Proba python](https://colab.research.google.com/drive/1fKHkCb-la3bV-hvWlvtastza_IxQoRc_?usp=sharing)
+- 🧮 [Wolfram Alpha (Calculadora)](https://www.wolframalpha.com/)
+- 📉 [Geogebra (Graficadora)](https://www.geogebra.org/graphing?lang=es-AR)
